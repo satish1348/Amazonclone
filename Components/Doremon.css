@@ -1,0 +1,89 @@
+.prod-prom{
+    margin: 0;
+    height: 60px;
+    border: 1px solid rgba(0,0,0,.1);
+    font-size: 13px;
+    line-height: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+    cursor: pointer;
+
+}
+.prod-prom-img{
+    height: 50px;
+    width: 45px;
+}
+.prod-prom-1, .prod-prom-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.prod-prom-1 div{
+    margin:0 20px;
+}
+.bx-star, .bxs-star{
+    color: #ffa41c;
+}
+.price{
+    color :#CC0C39;
+    font-size: 23px;
+}
+.prod-prom-btn{
+    margin-left: 30px;
+    padding: 5px 10px;
+    background-color: #ffa41c;
+    border-radius: 25px;
+    border-color: transparent;
+    padding-bottom: 8px;
+    font-weight: 400;
+}
+.dora
+{
+    height: 550px;
+    border: 1px solid gray;
+    display: flex;
+    padding: 20px;
+}
+.info
+{
+    height: 500px;
+    width: 750px;
+    /* border: 1px solid gray; */
+    text-align: left;
+    margin-left: 30px;
+}
+.cartdet
+{
+    height: 500px;
+    width: 300px;
+    border: 1px solid gray;
+    margin-left: 50px;
+    text-align: left;
+    padding: 10px;
+}
+.gr
+{
+    color: green;
+}
+.cartbutton
+{
+    padding: 2px;
+    margin: 20px;
+    width: 200px;
+    background-color: rgb(248, 188, 6);
+    border-radius: 32px;
+    cursor: pointer;
+}
+.buybutton
+{
+    padding: 2px;
+    margin: 25px;
+    margin-top: 0px;
+    width: 200px;
+    background-color: #ffa41c;
+    border-radius: 32px;
+    cursor: pointer;
+
+}

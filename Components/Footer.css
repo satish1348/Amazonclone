@@ -1,0 +1,91 @@
+.back
+{
+       background-color: #3a4553;
+       border: 1px solid #3a4553;
+       color: aliceblue;
+       
+
+       
+}
+.back:hover
+{
+   background-color: #444f5f;
+   color: aliceblue;
+}
+
+.noBullets{
+    list-style-type: none;
+    font-size:medium;
+}
+.listContainer{
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    list-style: none;   
+}
+.listContainer li{
+    display: inline;
+    margin: 10px;
+}
+
+.headLi{
+    font-weight: bold;
+}
+.footer{
+    height: 450px;
+    line-height:30px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #232e3d;
+    width: 100vw;
+    color: whitesmoke;
+    padding: 50px;
+    position: relative;
+ top:200px   
+
+    
+  }
+  
+  ul {  
+    list-style-type: none; 
+    padding: 0; 
+    margin: 0; 
+  }
+  
+  ul.list1, ul.list2, ul.list3, ul.list4 {
+    display: inline-block; 
+    vertical-align: top; 
+  }
+.footer-inner
+{
+    background-color: #232e3d;
+    width: 100vw;
+    color: whitesmoke;
+    display: flex;
+    padding: 5px;
+    justify-content: center;
+    height: 100px;
+    border: 0.2px solid rgba(245, 245, 245, 0.171);
+    position: relative;
+    top:150px
+
+}
+.footer-inner-info
+{
+    padding-left: 100px;
+    /* margin: 10px; */
+}
+.b1,.b2,.b3
+{
+    margin: 10px;
+    color: aliceblue;
+}
+.logol
+{
+    margin: 20px;
+}
+.btt
+{
+    position: relative;
+    top: 200px;
+}

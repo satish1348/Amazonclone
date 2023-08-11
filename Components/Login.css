@@ -1,0 +1,63 @@
+body
+{
+    background-color: beige;
+    display: flex;
+    align-items: center;
+    
+}
+.main
+{
+    height: 500px;
+    padding: 20px;
+    width: 600px;
+    /* border: 1px solid gray; */
+    margin-left: 600px;
+    margin-top: 10px;
+}
+.logoo
+{
+    height: 50px;
+}
+.signn
+{
+    height: 420px;
+    width: 450px;
+    border: 1px solid gray;
+    margin-left: 50px;
+    background-color: white;
+    text-align: left;
+    padding: 30px;
+}
+.in
+{
+    width: 400px;
+    padding: 2px;
+}
+.con
+{
+    margin-top:  15px;
+    width: 400px;
+    columns: white;
+    background-color: #FFD814;
+    border: 1px solid yellow;
+    border-radius: 5%;
+}
+.bbb
+{
+    position: relative;
+    top: 1px;
+    
+}
+.ama
+{
+    color: gray;
+}
+.create
+{
+    width:440px;
+    height: 50px;
+    background-color: white;
+    border-radius: 5%;
+    border: 1px solid gray;
+    box-shadow: 3px 3px 3px 3px gray;
+}

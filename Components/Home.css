@@ -1,0 +1,75 @@
+.card-img-top
+{
+    height: 300px;
+    width: 300px;
+}
+.card
+{
+   position: relative;
+   bottom: 300px;
+   border: 1px solid white;
+   width: 350px;
+   padding: 10px;
+   
+}
+.carditems
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+.card-title
+{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.line
+{
+    background-color: beige;
+    height: 50px;
+    position: relative;
+    bottom: 320px;
+    padding: 10px;
+    padding-left: 70px;
+}
+.carousel-text{
+    text-align: left;
+}
+.scarousal{
+    display: flex;
+    justify-content: space-evenly;
+}
+.scarousel-inner{
+    padding: 10px;
+}
+.scarousel-item img{
+    margin: 12px;
+}
+.sc-prev, .sc-next{
+    position: absolute;
+    bottom: -20px;
+}
+.sc-prev{
+    left: -60px;
+}
+.sc-next{
+    right: -60px;
+}
+.w--10{
+    width: 300px;
+    height: 150px;
+}
+
+.carousel-2{
+    background-color: white;
+    margin: 20px;
+    border-radius: 15px;
+    position: relative;
+    bottom: 270px;
+}
+body{
+    background-color: beige;
+}
+.home
+{
+    height: 2000px;
+}

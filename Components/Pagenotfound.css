@@ -1,0 +1,16 @@
+.page
+{
+    height: 300px;
+    
+}
+.page1
+{
+    width: 800px;
+}
+.pagen
+{
+    background-color: white;
+    position: relative;
+    bottom: 50px;
+    height: 900px;
+}
